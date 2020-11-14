@@ -21,14 +21,13 @@ The first question: What are the real estate prices of all kinds in Seattle comp
 
  We can conclude that Boston is predominantly more expensive than Seattle and this is due to taxes and standard of living but the valuations are in
  Graph
- (In the code)
+![Table Data](table.png)
+
+![chart](chart.png)
 
 Question 2: What is the average price for reviews in Seattle versus Boston?
 
    See the price code
-
-   Graph
-
 
    We can say that the rankings in the two cities are close, with Seattle having a slight edge over Boston
 
